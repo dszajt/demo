@@ -2,7 +2,8 @@
   "posts": [
     {
       "nombre": "Damian Szajt",
-      "patente": "AC009TJ"
+      "patente": "AC009TJ" ,
+      "puntos":5400
     }
   ],
   "profile": {
