@@ -1,8 +1,9 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "nombre": "Damian Szajt",
+      "patente": "AC009TJ",
+      "puntos":3200
     }
   ],
   "profile": {
